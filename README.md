@@ -63,4 +63,3 @@ Come up with a domain for this data (lie 'dogs' or 'candies'). Let's assume you 
     -   Loop through your array, and for each object"
         -   render a candy element using the render function
         -   append the element to the container element you grabbed from the DOM
-initial commit
